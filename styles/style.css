@@ -366,12 +366,9 @@
   font-size: 18px;
   font-weight: normal;
   list-style-type: none;
-}
-
-.footer__column_link {
   text-decoration: none;
   color:white;
-  }
+}
 
 .footer__column_social-icon {
   margin: 0;
