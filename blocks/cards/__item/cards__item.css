@@ -4,10 +4,6 @@
   margin-top: 60px;
 }
 
-.cards__item:nth-of-type(1) {
-  margin-left: 0;
-}
-
-.cards__item:nth-of-type(4) {
+.cards__item:nth-of-type(3n+1) {
   margin-left: 0;
 }
